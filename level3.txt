@@ -1,2 +1,2 @@
 count: 3
-coffee: espresso americano mocha
+coffee: espresso americano latte
